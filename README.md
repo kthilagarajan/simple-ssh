@@ -1,17 +1,17 @@
 # simple-ssh
-Simple SSH Implementation
+Simple SSH Implementation <br/>
 
 To Start :
-npm install
-node app.js hostName userName password
+npm install <br/>
+node app.js hostName userName password <br/>
 
 
-It listens in port 3000!
-localhost:3000/getFileList?param_1="~/"
+It listens in port 3000! <br/>
+localhost:3000/getFileList?param_1="~/" <br/>
 
-Ex:
-~/folder1
+Ex: <br/>
+~/folder1 <br/>
 
-localhost:3000/readFile?param_1="~/filename.txt"
+localhost:3000/readFile?param_1="~/filename.txt" <br/>
 
-In Param, always start with tild symbol, ie. from your home directory
+In Param, always start with tild symbol, ie. from your home directory <br/>
